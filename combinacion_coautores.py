@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: 850 -*-
-# Listar, crear directorios y archivos del sistema
+# Crear pares de autores de una publicación de artículo o libro
 # @utor: Leonardo Marcos Santiago
 
 import os
